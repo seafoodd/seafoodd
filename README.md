@@ -1,4 +1,6 @@
-## Hi there 👋
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
 
 <!--
 **seafoodd/seafoodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

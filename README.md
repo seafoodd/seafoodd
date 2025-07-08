@@ -45,7 +45,7 @@ A fully custom-built implementation of Ultimate Tic Tac Toe, designed for compet
 - Telegram: [@seafood_dev](https://t.me/seafood_dev)  
 - Discord: `seafood__`
 - LinkedIn: [@seafood_dev](https://www.linkedin.com/in/seafood-dev/)
-- GitHub: [@seafood](https://github.com/seafoodd)
+- GitHub: [@seafoodd](https://github.com/seafoodd)
 
 ---
 

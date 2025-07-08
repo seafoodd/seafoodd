@@ -4,7 +4,7 @@ I'm a middle full-stack developer who enjoys turning ideas into solid, scalable 
 ## 💻 Tech Stack
 - **Frontend:** Next.js, React, Tailwind, Sass
 - **Backend:** NestJS, Express.js, WebSockets, Redis, MongoDB, PostgreSQL
-- **DevOps:** Docker, CI/CD, NGINX, AWS, DigitalOcean
+- **DevOps:** Docker, CI/CD, nginx, AWS, DigitalOcean
 
 ## 🧠 Interests
 - Architecting scalable web applications

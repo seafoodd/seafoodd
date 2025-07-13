@@ -49,4 +49,4 @@ A fully custom-built implementation of Ultimate Tic Tac Toe, designed for compet
 
 ---
 
-Feel free to reach out or check out my work — I'm always building something new.
+Feel free to reach out or check out my work!

@@ -17,4 +17,4 @@ Looking for **remote freelance or async work**. Open to part-time and short-term
 - Telegram: [@seafood_dev](https://t.me/seafood_dev)  
 - Discord:  `seafood__`
 - LinkedIn: [@seafood_dev](https://www.linkedin.com/in/seafood-dev/)
-- Mail:     [mail.seafood@proton.me](mailto:mail.seafood@proton.me)
+- Email:    [mail.seafood@proton.me](mailto:mail.seafood@proton.me)

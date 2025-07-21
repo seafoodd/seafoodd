@@ -1,52 +1,20 @@
 # 👋 Hi, I'm seafood
-I'm a middle full-stack developer who enjoys turning ideas into solid, scalable apps — with a focus on clean architecture and real-time systems.
 
-## 💻 Tech Stack
-- **Frontend:** Next.js, React, Tailwind, Sass
-- **Backend:** NestJS, Express.js, WebSockets, Redis, MongoDB, PostgreSQL
-- **DevOps:** Docker, CI/CD, nginx, AWS, DigitalOcean
+I'm a full-stack developer with 3+ years of experience building high-performance web applications using modern technologies.
 
-## 🧠 Interests
-- Architecting scalable web applications
-- Creating real-time multiplayer games (e.g. [ultiTTT](https://ultittt.org))
-- Automation and utility scripting
+### 🔧 Tech Stack:
+- Frontend: React, Next.js, Tailwind CSS, Sass
+- Backend:  NestJS, Express, MongoDB, Redis, MongoDB, Prisma ORM
+- DevOps:   Docker, AWS, DigitalOcean, CI/CD, Nginx
+- Other:    WebSockets, TypeScript, SSR, SEO optimization
 
-## 📦 Projects
-### 🎮 [ultiTTT](https://ultittt.org) — competitive real-time Ultimate Tic Tac Toe
-A fully custom-built implementation of Ultimate Tic Tac Toe, designed for competitive 1v1 play.
-**Tech Overview:**
-- **Frontend:**
-  - Built with **Next.js** + **Tailwind CSS**
-  - Uses **WebSockets** for real-time game state updates
-  - Clean, minimal UI focused on speed, clarity, and responsiveness
+### 🧪 My Projects:
+- [ultiTTT.org](https://ultittt.org) - [GitHub](https://github.com/seafoodd/ultiTTT): Competitive Ultimate Tic Tac Toe platform with real-time multiplayer, rankings, and persistent game history
 
-- **Backend:**
-  - Built with **NestJS** (modular structure, feature-based)
-  - **Redis** for real-time game state storage
-  - **MongoDB** for persistent storage of finished matches and accounts
-  - Stateless architecture — all active games live in Redis, not in the database
-
-- **Realtime:**  
-  - Uses **socket.io** for bi-directional communication  
-  - Each move is validated server-side before being broadcasted  
-  - Handles edge cases like disconnects, invalid moves, game timeouts
-
-- **Infrastructure:**  
-  - Containerized with **Docker**
-  - Fully automated CI/CD pipelines
-  - Automatic database backups
-
-## 🧪 Currently Exploring
-- Structuring codebases with **clean module design** (especially with NestJS)
-- Building PWA apps with service workers
-- Studying system design, algorithms, and writing solid backend logic
-
-## 🗂️ Contact & Links
+### 🎯 Currently:
+Looking for **remote freelance or async work**. Open to part-time and short-term projects.  
+#### Reach me at:
 - Telegram: [@seafood_dev](https://t.me/seafood_dev)  
-- Discord: `seafood__`
+- Discord:  `seafood__`
 - LinkedIn: [@seafood_dev](https://www.linkedin.com/in/seafood-dev/)
-- GitHub: [@seafoodd](https://github.com/seafoodd)
-
----
-
-Feel free to reach out or check out my work!
+- Mail:     [mail.seafood@proton.me](mailto:mail.seafood@proton.me)

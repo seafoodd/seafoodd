@@ -3,7 +3,7 @@
 I'm a full-stack developer with 3+ years of experience building high-performance web applications using modern technologies.
 
 ### 🔧 Tech Stack:
-- Frontend: React, Next.js, Tailwind CSS, Sass
+- Frontend: React, Next.js, Tailwind CSS, Sass, Tanstack Query
 - Backend:  NestJS, Express, MongoDB, Redis, MongoDB, Prisma ORM
 - DevOps:   Docker, AWS, DigitalOcean, CI/CD, Nginx
 - Other:    WebSockets, TypeScript, SSR, SEO optimization

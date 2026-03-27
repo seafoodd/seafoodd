@@ -1,5 +1,3 @@
-![shark pog](https://media1.tenor.com/m/5wFuZ77oig0AAAAC/reaction-shark-pog.gif)
-
 # Hi, I'm seafood
 
 I'm a full-stack developer with 3+ years of experience building high-performance web applications using modern technologies.

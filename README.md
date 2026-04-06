@@ -9,7 +9,8 @@ I'm a full-stack developer with 3+ years of experience building high-performance
 - Other:    WebSockets, TypeScript, SSR, SEO optimization
 
 ### My Projects:
-- [ultiTTT.org](https://ultittt.org) - [GitHub](https://github.com/seafoodd/ultiTTT): Competitive Ultimate Tic Tac Toe platform with real-time multiplayer, rankings, and persistent game history
+- [ultiTTT.org](https://ultittt.org) ([GitHub](https://github.com/seafoodd/ultiTTT)) - Competitive Ultimate Tic Tac Toe platform with real-time multiplayer, rankings, and persistent game history
+- [Blacktape](https://github.com/seafoodd/blacktape-desktop) ([GitHub](https://github.com/seafoodd/ultiTTT)) - A desktop music player that can download and organize music from different platforms written in Rust + React (Tauri).
 
 ### Looking for:
 **Remote freelance or async work**. Open to part-time and short-term projects.  

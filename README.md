@@ -3,19 +3,19 @@
 I'm a full-stack developer with 3+ years of experience building high-performance web applications using modern technologies.
 
 ### Tech Stack:
-- Frontend: React, Next.js, Tailwind CSS, Sass, Tanstack Query
-- Backend:  Rust, NestJS, Express, MongoDB, Redis, MongoDB, Prisma ORM
-- DevOps:   Docker, AWS, DigitalOcean, CI/CD, Nginx
-- Other:    WebSockets, TypeScript, SSR, SEO optimization, Sentry Telemetrics
+  - Frontend: React, Next.js, Tailwind CSS, Sass, Tanstack Query
+  - Backend:  Rust, NestJS, Express, MongoDB, Redis, MongoDB, Prisma ORM
+  - DevOps:   Docker, AWS, DigitalOcean, CI/CD, Nginx
+  - Other:    WebSockets, TypeScript, SSR, SEO optimization, Sentry Telemetrics
 
 ### My Projects:
-- [Blacktape Music Player](https://github.com/seafoodd/blacktape-desktop) ([GitHub](https://github.com/seafoodd/blacktape-desktop)) - A desktop music player that can download and organize music from different platforms written in Rust + React (Tauri).
-- [ultiTTT.org](https://ultittt.org) ([GitHub](https://github.com/seafoodd/ultiTTT)) - Competitive Ultimate Tic Tac Toe platform with real-time multiplayer, rankings, and persistent game history
+  - [Blacktape Music Player](https://github.com/seafoodd/blacktape-desktop) ([GitHub](https://github.com/seafoodd/blacktape-desktop)) - A desktop music player that can download and organize music from different platforms written in Rust + React (Tauri).
+  - [ultiTTT.org](https://ultittt.org)                                      ([GitHub](https://github.com/seafoodd/ultiTTT))           - Competitive Ultimate Tic Tac Toe platform with real-time multiplayer, rankings, and persistent game history
 
 ### Looking for:
 **Remote freelance or async work**. Open to part-time and short-term projects.  
 ### Reach me at:
-- Telegram: [@seafood_dev](https://t.me/seafood_dev)  
-- Discord:  `seafood__`
-- LinkedIn: [@seafood_dev](https://www.linkedin.com/in/seafood-dev/)
-- Email:    [mail.seafood@proton.me](mailto:mail.seafood@proton.me)
+  - Telegram: [@seafood_dev](https://t.me/seafood_dev)  
+  - Discord:  `seafood__`
+  - LinkedIn: [@seafood_dev](https://www.linkedin.com/in/seafood-dev/)
+  - Email:    [mail.seafood@proton.me](mailto:mail.seafood@proton.me)
